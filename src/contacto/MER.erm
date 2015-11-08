@@ -135,7 +135,7 @@
 			</connections>
 			<display>false</display>
 			<creation_date>2015-10-18 10:42:11</creation_date>
-			<updated_date>2015-10-24 09:46:58</updated_date>
+			<updated_date>2015-11-08 12:13:00</updated_date>
 			<model_property>
 				<name>Project Name</name>
 				<value></value>
@@ -278,8 +278,8 @@
 			<width>196</width>
 				<font_name>Segoe UI</font_name>
 				<font_size>9</font_size>
-			<x>144</x>
-			<y>36</y>
+			<x>36</x>
+			<y>24</y>
 			<color>
 				<r>128</r>
 				<g>128</g>
